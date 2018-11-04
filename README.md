@@ -63,5 +63,5 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 
 
 <br />
+https://stackblitz.com/github/gothinkster/angular-realworld-example-app?file=src%2Fapp%2Farticle%2Farticle.module.ts
 
-[![Brought to you by Thinkster](https://raw.githubusercontent.com/gothinkster/realworld/master/media/end.png)](https://thinkster.io)
